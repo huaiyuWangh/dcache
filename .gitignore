@@ -1,0 +1,8 @@
+.idea
+dist
+wire_gen.go
+
+.scannerwork
+
+.govet-report
+.golint-report
